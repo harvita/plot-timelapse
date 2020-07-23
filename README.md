@@ -1,5 +1,7 @@
+## How to cite
+
 ```
- @MISC{harvita,
+ @MISC{harvitatimelapsetool2020,
     title = A Timelapse Tool to analyze orthomosaic images from agricultural field trials,
     author = {Christian Spana},
     title = {{Harvita Plot timelapse}},
